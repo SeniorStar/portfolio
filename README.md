@@ -115,19 +115,19 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Austin S Light",
+  name: "Catalin Stan",
   profile: '/profile.png  ',
   designation: "Senior Full Stack Developer",
   description: "My name is Austin. ...",
-  email: 'lightaustinsheridan96@gmail.com',
+  email: 'catalinstan0530@gmail.com',
   phone: '(813) 803-0150',
-  address: 'Gainesville, FL 32606',
-  github: 'https://github.com/AustinSLight',
+  address: '',
+  github: '',
   facebook: '',
-  linkedIn: 'https://www.linkedin.com/in/austin-sheridan-light/',
-  twitter: 'https://twitter.com/',
-  stackOverflow: 'https://stackoverflow.com',
-  leetcode: "https://leetcode.com/",
+  linkedIn: '',
+  twitter: '',
+  stackOverflow: '',
+  leetcode: "",
   devUsername: "",
   resume: "...",
 }
